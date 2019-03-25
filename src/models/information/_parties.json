@@ -5,7 +5,8 @@
     "color": "#06aff3",
     "id": 1,
     "name": "ประชาธิปัตย์",
-    "partylist": 150
+    "partylist": 150,
+    "supportNcpo": true
   },
   {
     "codeEN": "TCP",
